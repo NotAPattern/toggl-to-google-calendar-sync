@@ -5,7 +5,7 @@
 */
 
 const TOGGL_API_KEY = ''; // paste your API key from Toggl profile
-const CALENDAR_NAME = ''; // paste your calendar name, default is your gmail
+const CALENDAR_NAME = ''; // paste your Google Calendar name, default is your gmail
 const UPDATE_IN_MINUTES = 10; // sync time in minutes
 
 // Don't change this constants
